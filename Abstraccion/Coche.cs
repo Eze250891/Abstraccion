@@ -15,7 +15,7 @@ namespace Abstraccion
 
         public override string Detener()
         {
-            return "Apago el motor del auto";
+            return "Freno y apago el motor del auto";
         }
     }
 }

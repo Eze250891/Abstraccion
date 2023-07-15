@@ -10,12 +10,12 @@ namespace Abstraccion
     {
         public override string Arrancar()
         {
-            return "Enciendo el Avion";
+            return "Enciendo el Avion calentando las turbinas";
         }
 
         public override string Detener()
         {
-            return "Apago el Avion";
+            return "Apago el Avion cuando bajan los tripulantes";
         }
     }
 }

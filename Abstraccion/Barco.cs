@@ -10,12 +10,12 @@ namespace Abstraccion
     {
         public override string Arrancar()
         {
-            return "Enciendo el Barco";
+            return "Enciendo el Barco calentando motores";
         }
 
         public override string Detener()
         {
-            return "Apago el Barco";
+            return "Apago el Barco tirando el ancla";
         }
     }
 }
