@@ -9,7 +9,7 @@ namespace Abstraccion
     public abstract class MedioTransporte
     {
         //Atributo
-        public int AniFabricacion { get; set; } 
+        public int AnioFabricacion { get; set; } 
 
         public int Capacidad { get; set; }
 
